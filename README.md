@@ -6,4 +6,5 @@ The Challenge was to develop the code that enables customers to send cryptocurre
 
 Once it's all been put together, and launched the Streamlit web interface, it's time to test the KryptoJobs2Go application with newly integrated Ethereum wallet. We sent a test transaction by using the application’s web interface, and then looked up the resulting transaction in Ganache. The transaction was successfully went through and recorded.
 
-[Ganache1](
+[Ganache1](https://github.com/AbuzarF/kryptoJobs2Go/blob/main/Ganache.PNG)
+[Ganesh2](
